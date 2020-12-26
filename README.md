@@ -4,6 +4,7 @@ Implementation of Conway's Game Of Life's Rules in Python, using Pygame. Project
 # Jogo da Vida de Conway
 
 Implementação do Jogo da Vida de Conway, codificado em Python e utilizando da biblioteca PyGame para realizar a renderização frame by frame da simulação.
+Projeto realizado para a disciplina de Tópicos em Computação 2 (TT002) da FT-UNICAMP.
 
 Regras (Wikipedia):
 As regras são simples e elegantes:
